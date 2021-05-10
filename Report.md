@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://github.com/Orlov-D/DZ_1.1/issues/1
+* https://github.com/Orlov-D/javaqa-2.1/issues/1
 
 ## Описание процесса тестирования
 
